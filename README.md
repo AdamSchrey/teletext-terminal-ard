@@ -1,15 +1,15 @@
 # teletext-terminal-ard
 A python terminal program that shows the teletext of the ARD.
 
-_______________________HOW TO RUN_______________________
+# HOW TO RUN
 You need "Python3" to run the program.
 Open your terminal and navigate to the right directory.
 Start the program with: "python3 ard_teletext.py"
 
-_______________________DEVELOPER_______________________
+# DEVELOPER
 Adam Schrey
 
-_______________________LICENSE_________________________
+# LICENSE
 
 English:
 
